@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="SpaceKeeper.Core/SpaceKeeper.Core.csproj" />
+  <Project Path="SpaceKeeper.App/SpaceKeeper.App.csproj" />
+  <Project Path="SpaceKeeper.Tests/SpaceKeeper.Tests.csproj" />
+</Solution>
